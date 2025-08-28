@@ -1,6 +1,6 @@
 import os 
 os.system("clear")
-print("Bienvenido que numero desea consultar")
+print("Bienvenido que numero desea consultar un numero")
 num=int(input("Ingrese un numero del 1 al 10: "))
 
 if 1<=num<=10:
